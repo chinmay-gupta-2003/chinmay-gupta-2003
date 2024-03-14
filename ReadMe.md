@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working as a Software Developer at Clofio SaaS.<br>🌱 I’m currently learning DevOps.<br>💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️ You can shoot me an email at chinmay.portfolio@gmail.com. I'll try to respond as soon as I can.<br><br>
+🔭 I’m currently working as a Software Developer at Clofio SaaS.<br>✉️ You can shoot me an email at chinmay.portfolio@gmail.com. I'll try to respond as soon as I can.<br><br>
 
 ## 🌐 Socials:
 
