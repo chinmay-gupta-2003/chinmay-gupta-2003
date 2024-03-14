@@ -15,6 +15,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=chinmay-gupta-2003&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinmay-gupta-2003&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay-gupta-2003&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/chinmay-gupta-2003/chinmay-gupta-2003/output/snake.svg" alt="Snake animation" />
 
 ---
 
